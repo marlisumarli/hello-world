@@ -8,4 +8,4 @@
 ## Content
 
 * Test conflict (marli)
-
+* Test Squashing commit
