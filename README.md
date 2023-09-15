@@ -9,3 +9,4 @@
 
 * Test conflict (marli)
 * Test Squashing commit
+* Test chaining commits
