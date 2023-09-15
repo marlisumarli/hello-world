@@ -2,3 +2,4 @@ List of useful feature
 1. Eat
 2. Breath
 3. Sleep
+4. Take a bath
