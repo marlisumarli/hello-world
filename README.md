@@ -10,3 +10,4 @@
 * Test conflict (marli)
 * Test Squashing commit
 * Test chaining commits 1
+* Test chaining commits 2
