@@ -12,4 +12,3 @@
 * Test chaining commits 1
 * Test chaining commits 2
 * Test chaining commits 3
-* Reverting 1
